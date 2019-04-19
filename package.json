@@ -1,0 +1,13 @@
+{
+  "name": "simple-debouncer",
+  "version": "1.0.1",
+  "description": "The simplest debouncer you will ever see",
+  "main": "index.js",
+  "keywords": [
+    "debouncer",
+    "js",
+    "ecma"
+  ],
+  "author": "axotion",
+  "license": "MIT"
+}
