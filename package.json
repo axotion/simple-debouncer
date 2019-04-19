@@ -1,6 +1,6 @@
 {
   "name": "simple-debouncer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The simplest debouncer you will ever see",
   "main": "index.js",
   "keywords": [
